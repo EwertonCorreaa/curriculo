@@ -41,7 +41,7 @@ Gerente de Loja.
 * PowerBI (intermediário)
 
 ### Sistemas Operacionais
-* Linux
+* Linux [Certificado](https://www.dio.me/certificate/9551FD43/share)
 * Windows
 
 ### Front-end
@@ -67,7 +67,7 @@ Gerente de Loja.
 ## Cursos Completos
 * Curso Git e Github para iniciantes (DIO / [Certificado](https://www.dio.me/certificate/B4D40817/share))
 * Do Básico ao Avançado - O Curso Completo de Microsoft Excel (UDemy / [Certificado](https://www.udemy.com/certificate/UC-126ab8e8-34b3-4375-8211-6a833a5f913c/))
-* Introdução à programação com Python (DIO / [Certificado](https://www.dio.me/certificate/D3F44694/share)
+* Introdução à programação com Python (DIO / [Certificado](https://www.dio.me/certificate/D3F44694/share))
 
 ## Eventos como Participante
 * Bootcamp Cognizant Cloud Data Engineer #2 - DIO
